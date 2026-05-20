@@ -1,0 +1,8 @@
+## 3. Create requirements.txt
+
+Since this uses built-in Python libraries, you can simply write:
+
+```txt
+sqlite3
+json
+datetime
